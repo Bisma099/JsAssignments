@@ -1,0 +1,21 @@
+img{
+    height: 300px;
+    width: 300px;
+    cursor: pointer; 
+}
+.bigImage{
+    height: 400px;
+    width: 400px;
+}
+.modal{
+    display: none;
+}
+.btn{
+    color:coral !important;
+    background-color: royalblue !important;
+}
+.id{
+    text-align: center !important;
+color: coral;
+background-color: #009688;
+}
